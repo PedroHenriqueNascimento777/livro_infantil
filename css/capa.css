@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+
+.title{
+    padding-bottom: 450px;
+}
+.capa{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin: 0 auto;
+    background-color: rgb(163, 52, 0);
+    width: 400px;
+    height: 610px;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 20px;
+    background-attachment: fixed;
+    box-shadow: 7px 5px 0 #cecdcd, 14px 10px 0 rgb(141, 47, 0);
+    border: 2px solid #661d00;
+    
+}
+
+.link{
+    color: white;
+    margin-left: 300px;
+    font-size: 20px;
+}
